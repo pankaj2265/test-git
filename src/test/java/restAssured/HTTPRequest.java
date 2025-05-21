@@ -18,5 +18,6 @@ public class HTTPRequest {
                 .log()
                 .all()
                 .statusCode(200);
+
     }
 }
